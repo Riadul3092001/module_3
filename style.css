@@ -1,0 +1,96 @@
+.body{
+    width: 2000px;
+    /*border: 1px solid red;*/
+    margin: 0 auto;
+}
+.div1{
+    /*border: 1px solid red;*/
+    height: 300px;
+    text-align: center;
+    background-color: rgba(215, 151, 14, 0.732);
+    padding: 20px;
+}
+.div1 h3{
+    text-transform:capitalize;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(5, 84, 57);
+    font-size: 25px;
+}
+.div1 p{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.div1 button{
+    background-color: rgba(225, 171, 53, 0.732);
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+.div2{
+   /* border: 1px solid red;*/
+}
+.div2 table{
+   /* border: 1px solid red;*/
+    height: 600px;
+    width: 950px;
+    margin: 30px auto;
+}
+.div2 td{
+   /* border: 1px solid red;*/
+    /*text-align: center;*/
+    width: 200px;
+}
+.div2 table tr td p1{
+    text-transform: uppercase;
+    text-align:left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(123, 124, 125);
+    letter-spacing: 5px;
+}
+.div2 table tr td img{
+    height: 150px;
+    width:300px ;
+   
+    margin-top:  30px;
+    margin-bottom: 20px;
+}
+.div2 table tr td p2{
+    font-size: 25px;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(123, 124, 125);
+    
+}
+.div2 table tr td p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 23px;
+    color: rgb(155, 156, 158);
+    padding: 0px 10px 0px 0px;
+}
+.div3{
+   /* border: 1px solid red;*/
+   height: 150px;
+   background-color:rgba(215, 151, 14, 0.732) ;
+}
+.div3 table{
+    /* border: 1px solid red;*/
+    margin: 0px auto;
+    width: 950px;
+    padding: 30px;
+}
+.div3 table tr td{
+  /* border: 1px solid red;*/
+    width: 158.33px;
+    text-align: right;
+}
+.div3 table tr td p{
+    text-transform:capitalize;
+    color: rgb(87, 87, 87); ;
+}
+.div3 table tr td a{
+    text-transform:capitalize;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+
+}
